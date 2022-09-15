@@ -1,0 +1,1 @@
+<link href="{{asset('backend')}}/dist/css/style.min.css" rel="stylesheet">
